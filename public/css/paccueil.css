@@ -1,0 +1,18 @@
+/* paccueil.css */
+
+/* Style pour les boutons */
+.button {
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #4a90e2; 
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.5s ease;
+    margin: 15px;
+}
+
+.button:hover {
+    background-color: #4a90e2;
+}
